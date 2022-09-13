@@ -2,3 +2,9 @@ body {
     font-family: sans-serif;
     font-size: 18px;
 }
+
+body span {
+    border: 1px black solid;
+    width: 400px;
+    height: 400px;
+}
